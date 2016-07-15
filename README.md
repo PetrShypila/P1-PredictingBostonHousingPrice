@@ -133,7 +133,7 @@ fig.show()
 
 
 
-![png](output_8_1.png)
+![png](img/output_8_1.png)
 
 
 ## Question 2
@@ -410,7 +410,7 @@ learning_curves(X_train, y_train, X_test, y_test)
 
 
 
-![png](output_31_2.png)
+![png](img/output_31_2.png)
 
 
 ## Question 7
@@ -440,7 +440,7 @@ model_complexity(X_train, y_train, X_test, y_test)
 
 
 
-![png](output_36_1.png)
+![png](img/output_36_1.png)
 
 
 ## Question 9
