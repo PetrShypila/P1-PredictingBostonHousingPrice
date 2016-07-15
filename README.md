@@ -12,6 +12,8 @@ Things you will learn by completing this project:
 * How to determine the best-guess model for predictions from unseen data.
 * How to evaluate a model’s performance on unseen data using previous data.
 
+[Udacity Nanodegree Machine Learning webpage with a details about the program I participate in](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
+
 
 # Machine Learning Engineer Nanodegree
 ## Model Evaluation & Validation
